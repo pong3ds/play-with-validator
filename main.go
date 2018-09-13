@@ -88,6 +88,6 @@ func transformObject() {
 }
 
 func main() {
-	// validateSimple()
-	transformObject()
+	validateSimple()
+	// transformObject()
 }
