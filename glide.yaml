@@ -1,0 +1,5 @@
+package: github.org/pong3ds/play-with-validator
+import:
+- package: github.com/3dsinteractive/govalidator
+  version: ^9.0.0
+- package: github.com/3dsinteractive/deepcopier
